@@ -4,7 +4,7 @@ Script to upload to ebu.io
 
 #Installation
 
-install the 
+install the package:
 
     python-setuptools 
 
