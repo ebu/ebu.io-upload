@@ -2,7 +2,7 @@ import requests
 import os
 import sys
 
-HOST = "127.0.0.1:8000"
+HOST = "ebu.io"
 URL = "http://{}/downloads/upload/".format(HOST)
 
 if len(sys.argv) != 3:
