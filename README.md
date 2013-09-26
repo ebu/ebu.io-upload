@@ -1,24 +1,23 @@
-ebu.io-upload
-=============
+#ebu.io-upload
 
 Script to upload to ebu.io
 
-Installation
-============
+#Installation
 
-installing 
+install the 
 
-python-setuptools 
+    python-setuptools 
 
 then running 
 
-pip install .
+    pip install https://github.com/ebu/ebu.io-upload/archive/1.0.zip
 
-should install everything
+it should install everything 
 
-Usage
-=====
+#Usage
 You first need a token on ebu.io, 
 then you can simply do 
 
-ebupload.py file.zip TOKEN
+    ebupload.py file.zip TOKEN
+
+
